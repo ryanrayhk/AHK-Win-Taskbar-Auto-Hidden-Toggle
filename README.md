@@ -5,6 +5,7 @@ tested on Windows 11
 
 shortcut key: Win+B
 
+# To make it auto run when startup
 Create shortcut and copy into Windows Startup folder
 
 To access the Windows Startup folder, follow these steps:
